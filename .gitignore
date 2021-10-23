@@ -130,3 +130,4 @@ dmypy.json
 *.pkl
 weather-data/weather-denmark.csv
 weather-data/weather-denmark.tar.gz
+.DS_Store
