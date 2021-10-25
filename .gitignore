@@ -131,3 +131,4 @@ dmypy.json
 weather-data/weather-denmark.csv
 weather-data/weather-denmark.tar.gz
 .DS_Store
+!weather-data/weather_Esbjerg_imputed.pkl
